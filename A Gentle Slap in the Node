@@ -1,0 +1,8 @@
+A Gentle Slap in the Node
+=========================
+Node.js is really taking the world by storm.  Major businesses such as PayPal, Walmart, and Groupon are moving on from
+other platforms such as Java, .NET, and Ruby.  What is the allure?  Should you be preparing yourself for the next
+evolution in software development?  In this presentation, Kevin Griffin will provide you facts and heavy bias about using
+node.js for your next software project.  We will discuss the basic framework of a node.js application, including package
+management and deployment options.  The ability to spell "JavaScript" is helpful, but definitely not a requirement.  Come
+on out!
