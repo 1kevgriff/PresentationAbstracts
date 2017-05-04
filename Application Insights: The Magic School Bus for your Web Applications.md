@@ -1,4 +1,4 @@
-# Application Insights: The Magic School Bus for your Applications
+# Application Insights: The Magic School Bus for your Web Applications
 
 Ms. Frizzle and the kids are going on an adventure.  Not into the human body.  Not into outer space.
 
