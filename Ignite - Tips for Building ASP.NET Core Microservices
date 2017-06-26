@@ -1,0 +1,5 @@
+Tips for Building ASP.NET Core Microservices
+
+One of the "major" lessons we have learned over the past several years has been to NOT build monolithic web applications.  They lead to tightly couple projects that are hard to change, and result in the "house of cards" effect (one small change can take everything down).  Instead, a better approach can be to start adapting microservices.
+
+With ASP.NET Core, there are strategies we can start taking now to begin the process of decoupling our projects.  This Community Session will walk you through a series of tips and tricks you can use today to start your journey towards faster, safer, more frequent deployments.
