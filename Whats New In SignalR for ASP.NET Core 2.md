@@ -1,4 +1,4 @@
-# What's New In SignalR Core 2
+# What's New In SignalR for ASP.NET Core 2
 
 Hey!  That title kinda rhymes doesn't it.  Very many years ago, the good folks on the ASP.NET team released this little library called SignalR, which made it possible to easily do real-time communication between a web server and clients of all kinds (web, mobile, and more).
 
